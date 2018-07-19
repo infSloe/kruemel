@@ -1,0 +1,26 @@
+/* style.css */
+
+html, body {
+  height: 100%;
+}
+
+body {
+	margin-top: 100px;
+	margin-left: 100px;
+	margin-right: 200px;
+	font-family: sans-serif;
+	font-size: 18px;
+	
+ /* margin: 0;
+  display: flex;*/
+
+  /* This centers our sketch horizontally. */
+ /* justify-content: center;*/
+
+  /* This centers our sketch vertically. */
+  /*align-items: center;*/
+}
+h1, h2 {
+	color: gray;
+}
+}
